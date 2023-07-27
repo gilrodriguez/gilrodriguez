@@ -1,4 +1,9 @@
-### Hi there 👋
+## About Me
+Software Engineering Manager at IBM 
+
+## Experience
+
+## Education
 
 <!--
 **gilrodriguez/gilrodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
